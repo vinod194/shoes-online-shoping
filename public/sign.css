@@ -1,0 +1,13 @@
+.container{
+    box-shadow: 0px 0px 10px gray;
+margin-top: 150px;
+}
+.btn-dark{
+    margin-top: 20px;
+    width: 100%;
+}
+@media screen and ( max-width:600px  ){
+.signup{
+    width: 100%;
+}
+}
